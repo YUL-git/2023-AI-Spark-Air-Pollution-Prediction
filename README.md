@@ -2,7 +2,7 @@
 AI solution that Predict of Air Pollution by region
 
 ## Solution Overview
-![overview image](./figures/overview.png)
+![overview image]()
 
 ## Team member  
 |<img src="https://avatars.githubusercontent.com/YUL-git" width="100">
