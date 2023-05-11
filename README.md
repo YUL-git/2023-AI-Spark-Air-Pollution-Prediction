@@ -13,17 +13,23 @@ AI solution that Predict of Air Pollution by region
 ```
 ┖ figures
   ┖ ~
-┖ AE_ABOD_SOTA_.ipynb
+┖ Densed_LSTM.ipynb
+┖ Datasets
+  ┖ TRAIN
+    ┖ ~
+  ┖ TRAIN_AWS
+    ┖ ~
+  ┖ TEST
+    ┖ ~
+  ┖ TEST_AWS
+    ┖ ~
+  ┖ Meta_data
+  ┖ Sample_submission
+
 ```
   
-AE_ABOD.ipynb  
-- Train and Test the Unsupervised classification model
-
-## Dataset Overview
-![overview image](./figures/data_overview.png)  
-We train and evaluate our model using the dataset from [Outlier detection of Air Compressor](https://aifactory.space/competition/data/2226)
-
-we assume that you have downloaded it and placed based on File Structure, inside the dataset folder.
+Densed_LSTM.ipynb  
+- Train and Test the Densed Lstm model
 
 ## Submission Process  
-Run All code in 'AE_ABOD.ipynb' to classify abnomalies of air compressor
+Run All code in 'Densed_LSTM.ipynb' to predict air pollution
